@@ -25,7 +25,7 @@ Pro : Kbis \+ CNI représentant légal \+ statuts \+ déclaration préfecture \+
 
 # \# CGV \- Assurance
 
-Non incluse. Option à 8 % de la valeur locative HT.    
+8 % de la valeur locative HT.    
 Franchise : 15 % min. 300 € HT.    
 Exclusions : perte, vol sans effraction, négligence.
 
