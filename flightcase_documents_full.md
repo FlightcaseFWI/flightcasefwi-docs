@@ -26,12 +26,6 @@ L’assurance est facturée 8% de la valeur locative HT du matériel.
 
 *Source: Conditions Générales de Location.pdf*
 
-### Alternative assurance
-
-Si le client refuse l’assurance Flightcase, il doit fournir une attestation d’assurance personnelle couvrant le matériel.
-
-*Source: Conditions Générales de Location.pdf*
-
 
 ---
 
@@ -103,22 +97,10 @@ Paiement par CB, espèces, chèque ou virement. Délai maximum légal : 60 jours
 
 *Source: Conditions Générales de Location.pdf*
 
-### Litiges
-
-Tout litige est de la compétence exclusive du tribunal de Pointe-à-Pitre, selon le droit français.
-
-*Source: Conditions Générales de Location.pdf*
-
 
 ---
 
 ## Caution
-
-### Montant caution standard
-
-Un dépôt de garantie standard de 5000€ est exigé, par carte bancaire (Visa, Eurocard, Mastercard, pas American Express).
-
-*Source: Dépôt de garantie.docx*
 
 ### Caution minimum
 
@@ -238,6 +220,49 @@ Constituée pour 99 ans à compter de son immatriculation (2020), soit jusqu’e
 
 *Source: Statuts SASU Flightcase.pdf*
 
+## 📄 Documents nécessaires à l’ouverture d’un compte / location
+
+Ces informations proviennent des **Conditions Générales de Location** et des documents légaux de **Flightcase FWI**.  
+
+---
+
+### 🏢 Entreprises
+- **Extrait KBIS** de moins de 3 mois  
+- **RIB**  
+- **Pièce d’identité** du représentant légal  
+- **Paiement intégral** de la première location si pas de compte ouvert  
+
+*Source : Conditions Générales de Location*  
+
+---
+
+### 🤝 Associations
+- **Récépissé de déclaration**  
+- **RIB**  
+- **Pièce d’identité** du représentant  
+- **Paiement intégral** de la location avant enlèvement  
+
+*Source : Conditions Générales de Location*  
+
+---
+
+### 👤 Particuliers
+- **Justificatif de domicile**  
+- **RIB**  
+- **Pièce d’identité**  
+- **Paiement intégral** de la location avant enlèvement  
+
+*Source : Conditions Générales de Location*  
+
+---
+
+### 🔒 Dépôt de garantie
+- **Caution minimale : 300 € (15% de la valeur du matériel)**  
+- **Clients étrangers** : caution espèces = 1,5 × prix de la location prévue  
+
+*Sources : Dépôt de garantie.docx & Conditions Générales de Location*  
+
+---
 
 ---
 
