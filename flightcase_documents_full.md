@@ -1,5 +1,3 @@
-# CGV
-
 ### Modalités de réservation
 
 La réservation se fait par téléphone ou email. Un devis signé est obligatoire pour bloquer le matériel. Sans devis signé, le matériel n’est pas bloqué.
